@@ -1,0 +1,7 @@
+CPU: 65.0%
+CPU: 0.0%
+CPU: 2.0%
+
+Registro de uso de CPU - 2025-05-15T22:07:29.079882
+CRÍTICO: 🚨 Consumo crítico detectado: 100.0%
+CRÍTICO: 🚨 Consumo crítico detectado: 98.0%
